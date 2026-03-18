@@ -1,5 +1,5 @@
 *********************************************
-A Python programme to print Termial Commands.
+A Python programme to print Terminal Commands.
 *********************************************
 
 The idea for this small project came from teaching a friend the basics of Linux & Python.
