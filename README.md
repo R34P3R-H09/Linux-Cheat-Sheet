@@ -20,4 +20,4 @@ Initially, I will concentrate on the following sections:
 6) Permissions
 7) Shortcuts
 
-Later in the project i will include some VIM commands.
+Later in the project, I will include some Process & VIM commands.
