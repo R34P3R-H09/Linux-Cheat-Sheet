@@ -14,7 +14,7 @@ Initially, I will concentrate on the following sections:
 
 1) File Commands
 2) SSH
-3) Installation
+3) Upgrade & Installation
 4) Network
 5) System Information
 6) Permissions
