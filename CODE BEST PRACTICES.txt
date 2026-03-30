@@ -1,15 +1,19 @@
+***************************************
 Some "Best Practices" for writing code.
 ***************************************
 
-1) Keep it simple. Don't over complicate the code. Just say what needs to be said AND MOVE ON.
+A few practices that i try and employ for writing code. Certainly not a difinitive list!
 
-2) Make it clear. Remember, someone else may have to work on what you have written and must be able to easily make sense of it.
 
-3) Keep a detailed account of any fixes, amendments or additions.
+  1) Keep it simple. Don't over complicate the code. Just say what needs to be said AND MOVE ON.
 
-4) Fix each issue as and when it is discovered. 
+  2) Make it clear. Remember, someone else may have to work on what you have written and must be able to easily make sense of it.
 
-5) Test everything as soon as you have written it and then test again!
+  3) Keep a detailed account of any fixes, amendments or additions.
+
+  4) Fix each issue as and when it is discovered. 
+
+  5) Test everything as soon as you have written it and then test again!
 
  
 
