@@ -2,7 +2,8 @@
 Some "Best Practices" for writing code.
 ***************************************
 
-A few practices that i try and employ for writing code. Certainly not a difinitive list!
+A few practices that I try and employ for writing code. Certainly not a difinitive list!
+I will keep adding to the list.
 
 
   1) Keep it simple. Don't over complicate the code. Just say what needs to be said AND MOVE ON.
