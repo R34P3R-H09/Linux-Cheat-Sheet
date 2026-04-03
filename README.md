@@ -21,4 +21,6 @@ Initially, I will concentrate on the commands to correspond with the following s
 6) Permissions
 7) Shortcuts
 
+Each section will broken down and contain a few commands relevant to the section.
+
 Later in the project, I will include some Process & VIM commands.
